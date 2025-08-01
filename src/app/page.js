@@ -106,8 +106,8 @@ export default function HomePage() {
       {/* Testimonial */}
       <div id="testimonial" className="bg-gray-50 py-20 text-center">
         <p className="italic text-lg max-w-2xl mx-auto">
-          "I can’t say enough good things about this company… always get great customer
-          service and support. Very high quality product A+."
+          `I can’t say enough good things about this company… always get great customer
+          service and support. Very high quality product A+.`
         </p>
         <p className="mt-4 font-semibold">- ROBERT</p>
       </div>
